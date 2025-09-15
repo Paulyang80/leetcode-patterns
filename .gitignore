@@ -14,9 +14,8 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# macOS / VSCode
+# macOS
 .DS_Store
-.vscode/
 
 # Misc
 *.log

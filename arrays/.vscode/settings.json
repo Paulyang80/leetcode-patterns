@@ -1,0 +1,16 @@
+{
+  // 關閉本工作區的 Copilot 自動建議，但不影響其他專案
+  "github.copilot.enable": {
+    "*": false
+  },
+  // 若你也裝了 Copilot Chat，也一起關掉（可選）
+  //"github.copilot.chat.enable": false,
+
+  // 保留一般 IntelliSense，方便補全（不用就設為 false）
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": false },
+
+  // 其他習慣設定（可選）
+  "files.exclude": { "**/__pycache__": true, "**/.pytest_cache": true },
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false
+}
