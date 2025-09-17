@@ -1,5 +1,7 @@
 # LeetCode Patterns (Top 150 & Beyond)
 
+My Leetcode Account: https://leetcode.com/u/paulyang80/
+
 把零散刷題轉成「題型手冊」：每個資料夾代表一類題型，包含：
 - **summary.md**：題型套路、常見變化、解題模板、易錯點
 - **solutions/**：代表性題目的參考解（Python / C++），以「題號_題名」命名
